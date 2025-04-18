@@ -44,10 +44,14 @@ Some files may be incomplete, experimental, or platform-specific (e.g., for STM3
 
 ---
 
-## 🔒 License
-
-These projects are shared for educational and personal development purposes. Licensing varies project-to-project. For any usage or contribution, feel free to open an issue or contact me!
-=======
 # All-project-files
-collection of various project files.
->>>>>>> 478eabfb53db91198ea26ae1c2c78ceb744643d0
+This repository contains a collection of various embedded systems, Linux system programming, and C/C++ based projects. These projects are accumulated from personal, academic, and professional work done over time — covering a wide range of topics from firmware development to Raspberry Pi and ESP32-based modules.
+
+🔧 Project Categories
+C/C++ Practice – Core programming exercises and data structures.
+Embedded Firmware – Projects for STM32, ESP32, NRF SDKs, and others.
+Linux System Programming (LSP) – Includes threading, signals, pipes, socket programming, and more.
+Boot Animations & Display Configs – Includes DWIN TFT display settings and boot graphics.
+Raspberry Pi – Hardware integration and controller snapshots.
+Stepper Motor Drivers – Firmware and test setups for stepper motors and drivers.
+Custom SPI/I2C Communication – Includes SD card over SPI, custom protocol drivers, and more.
