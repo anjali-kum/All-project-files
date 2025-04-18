@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # All Project Files 🛠️
 
 This repository contains a collection of various project files related to:
@@ -46,3 +47,7 @@ Some files may be incomplete, experimental, or platform-specific (e.g., for STM3
 ## 🔒 License
 
 These projects are shared for educational and personal development purposes. Licensing varies project-to-project. For any usage or contribution, feel free to open an issue or contact me!
+=======
+# All-project-files
+collection of various project files.
+>>>>>>> 478eabfb53db91198ea26ae1c2c78ceb744643d0
