@@ -1,0 +1,3 @@
+project(project_complex_libs)
+set(SRC main.c display.c)
+add_executable(mainapp  ${SRC}:)

@@ -1,0 +1,10 @@
+/home/anjali/kernal_programming/build_math/CMakeFiles/edit_cache.dir
+/home/anjali/kernal_programming/build_math/CMakeFiles/rebuild_cache.dir
+/home/anjali/kernal_programming/build_math/src/CMakeFiles/edit_cache.dir
+/home/anjali/kernal_programming/build_math/src/CMakeFiles/rebuild_cache.dir
+/home/anjali/kernal_programming/build_math/src/mainapp/CMakeFiles/mainapp.dir
+/home/anjali/kernal_programming/build_math/src/mainapp/CMakeFiles/edit_cache.dir
+/home/anjali/kernal_programming/build_math/src/mainapp/CMakeFiles/rebuild_cache.dir
+/home/anjali/kernal_programming/build_math/src/libmath/CMakeFiles/math.dir
+/home/anjali/kernal_programming/build_math/src/libmath/CMakeFiles/edit_cache.dir
+/home/anjali/kernal_programming/build_math/src/libmath/CMakeFiles/rebuild_cache.dir

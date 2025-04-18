@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mainapp.dir/main.c.o CMakeFiles/mainapp.dir/display.c.o -o mainapp 

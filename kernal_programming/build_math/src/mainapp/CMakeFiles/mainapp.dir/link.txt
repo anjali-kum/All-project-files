@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mainapp.dir/main.o -o mainapp  ../libmath/libmath.a 

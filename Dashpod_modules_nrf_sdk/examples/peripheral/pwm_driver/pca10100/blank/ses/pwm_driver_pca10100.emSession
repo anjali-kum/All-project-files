@@ -1,0 +1,47 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="pwm_driver_pca10100(56)"/>
+  <ProjectSessionItem path="pwm_driver_pca10100(56);pwm_driver_pca10100(56)"/>
+  <ProjectSessionItem path="pwm_driver_pca10100(56);pwm_driver_pca10100(56);Application"/>
+  <ProjectSessionItem path="pwm_driver_pca10100(56);pwm_driver_pca10100(56);App_modoules"/>
+  <ProjectSessionItem path="pwm_driver_pca10100(56);pwm_driver_pca10100(56);nRF_Drivers"/>
+  <ProjectSessionItem path="pwm_driver_pca10100(56);pwm_driver_pca10100(56);nRF_Segger_RTT"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="73" useTextEdit="1" path="../../../main.c" left="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" path="../../../../../../external/segger_rtt/SEGGER_RTT_Syscalls_SES.c" left="0" top="61" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" openedFrom="/home/ubuntu/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/examples/peripheral/pwm_driver/main.c" path="../../../../../../components/drivers_ext/led_ws2812b/led_ws2812b.c" left="0" top="39" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="pwm_driver_pca10100(56)" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/home/ubuntu/Downloads/DeviceDownload/nRF5_SDK_17.1.0_ddde560/components/drivers_ext/led_ws2812b" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

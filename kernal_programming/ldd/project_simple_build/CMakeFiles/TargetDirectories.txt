@@ -1,0 +1,3 @@
+/home/anjali/kernal_programming/ldd/project_simple_build/CMakeFiles/mainapp.dir
+/home/anjali/kernal_programming/ldd/project_simple_build/CMakeFiles/edit_cache.dir
+/home/anjali/kernal_programming/ldd/project_simple_build/CMakeFiles/rebuild_cache.dir
